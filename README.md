@@ -8,3 +8,23 @@
 <h2>BMI = weight(kg) / height(m)^2</h2>
 
 <p>The BMI is a measure of body fat based on an individual's weight in relation to their height. It is used to determine if an individual is underweight, normal weight, overweight, or obese.</p>
+
+<h3>Getting started</h3>
+
+1. Clone the repository:
+
+> git clone https://github.com/your-username/BMIReact.git
+
+2. Install the dependencies:
+
+> npm install
+
+3. Start the development server:
+
+> npm start
+
+4. Open the application in your web browser.
+
+</br>
+</br>
+<h1>THANK YOU !!</h1>
