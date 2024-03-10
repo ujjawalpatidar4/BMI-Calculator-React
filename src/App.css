@@ -1,0 +1,32 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+.container {
+  border: 2px solid black;
+  padding: 30px 60px;
+  background-color: #fff4dd;
+}
+
+input {
+  margin: 10px;
+  padding: 6px;
+}
+
+h1 {
+  color: rgb(255, 205, 98);
+}
+
+.btn {
+  margin-top: 15px;
+  background-color: rgb(91, 150, 239);
+}
+
+.btn:hover {
+  color: rgb(91, 150, 239);
+  background-color: #000;
+}
